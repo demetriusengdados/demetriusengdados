@@ -18,9 +18,11 @@ Azure
 
 Databricks
 
-Minhas redes sociais:
+Contato:
 
-https://www.linkedin.com/in/demetrius-mata-6aa74910a/ 
+ <a href="https://www.linkedin.com/in/demetrius-mata-6aa74910a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
 
 - 🔭 Sou engenheiro de dados com foco em ambiente Azure, Databricks
 - Atualmente estudando sobre sparkSQL e outras ferramentas da fundação apache 
