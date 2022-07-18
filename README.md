@@ -4,11 +4,17 @@ Sou engenheiro de dados, por aqui vai achar códigos de automação, processos d
 
 Minhas principais skills:
 python
-sql
+
+SQL
+
 spark
+
 airflow
+
 kafka 
+
 Azure
+
 Databricks
 
 Minhas redes sociais:
