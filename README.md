@@ -1,7 +1,15 @@
 ### Hi there  I'm Demetrius Magela da Mata👋
 
 Sou engenheiro de dados, por aqui vai achar códigos de automação, processos de ETL, alguns de IaaC(terraform). Fique a vontade pra melhorar no que for possivel 
-Here are some ideas to get you started:
+
+Minhas principais skills:
+python
+sql
+spark
+airflow
+kafka 
+Azure
+Databricks
 
 Minhas redes sociais:
 
