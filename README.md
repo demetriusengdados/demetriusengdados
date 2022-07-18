@@ -30,7 +30,8 @@ Contato:
 - Atuo atualmente como engenheiro de dados em time de produtos
 - Me segue ai e bora falar de dados 
 
-Contatos:
-cel/whatsapp: (31) 9 9178-8573
-
-github: github.com/demetriusengdados
+<div>
+<a href="https://github.com/demetriusengdados">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
