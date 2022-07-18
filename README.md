@@ -1,11 +1,12 @@
 ### Hi there  I'm Demetrius Magela da Mata👋
 
-Sou engenheiro de dados is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Sou engenheiro de dados, por aqui vai achar códigos de automação, processos de ETL, alguns de IaaC(terraform). Fique a vontade pra melhorar no que for possivel 
 Here are some ideas to get you started:
 
 Minhas redes sociais:
+
 https://www.linkedin.com/in/demetrius-mata-6aa74910a/ 
+
 - 🔭 Sou engenheiro de dados com foco em ambiente Azure, Databricks
 - Atualmente estudando sobre sparkSQL e outras ferramentas da fundação apache 
 - Tenho experiencia na área de produtos e projetos envolvendo desde concepção até entrega de arquitetura de dados
