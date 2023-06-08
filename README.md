@@ -41,9 +41,9 @@ Contato:
 [![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/demetriusengdados/demetriusengdados/edit/main/README.md)
 [![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)](https://github.comdemetriusengdados/demetriusengdados/edit/main/README.md)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://github.com/demetriusengdados/demetriusengdados/edit/main/README.md)
-[![Hadoop](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)](https://github.com/demetriusengdados/demetriusengdados/edit/main/README.md)
+[![Hadoop](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Hadoop&logoColor=white)](https://github.com/demetriusengdados/demetriusengdados/edit/main/README.md)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](https://github.com/demetriusengdados/demetriusengdados/edit/main/README.md)
-[![AWS](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](https://github.com/demetriusengdados/demetriusengdados/edit/main/README.md)
+[![AWS](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=AWS&logoColor=white)](https://github.com/demetriusengdados/demetriusengdados/edit/main/README.md)
 
 - Bancos de Dados Relacionais: SQL Server (T-SQL), Oracle (P-SQL), MySQL
 - Modelagem: Relacional, Dimensional
