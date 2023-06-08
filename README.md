@@ -33,6 +33,28 @@ Contato:
 - DBA - Vale - (03/2008 - 11/2012)
 
 
+## Hard Skills:
+[![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://github.com/demetriusengdados/demetriusengdados/edit/main/README.md)
+[![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)](https://github.com/demetriusengdados/demetriusengdados/edit/main/README.md)
+[![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://github.com/demetriusengdados/demetriusengdados/edit/main/README.md)
+[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/demetriusengdados/demetriusengdados/edit/main/README.md)
+[![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/demetriusengdados/demetriusengdados/edit/main/README.md)
+[![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)](https://github.comdemetriusengdados/demetriusengdados/edit/main/README.md)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://github.com/demetriusengdados/demetriusengdados/edit/main/README.md)
+[![Latex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)](https://github.com/demetriusengdados/demetriusengdados/edit/main/README.md)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://github.com/demetriusengdados/demetriusengdados/edit/main/README.md)
+[![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)](https://github.com/demetriusengdados/demetriusengdados/edit/main/README.md)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](https://github.com/demetriusengdados/demetriusengdados/edit/main/README.md)
+
+- Bancos de Dados Relacionais: SQL Server (T-SQL), Oracle (P-SQL), MySQL
+- Modelagem: Relacional, Dimensional
+- Ferramentas de ETL: Power Center, Integration Services
+- Ferramentas de Dataviz: Power BI
+- Ferramentas de apoio: Power Automate, Excel, Git, Python para análise de dados
+- Estudos autônomos: Azure Data Factory, Azure Synapse, Azure Analysis Services, Databricks, Ecossistema Apache 
+- Teradata
+- SAS
+
 <div>
 <a href="https://github.com/demetriusengdados">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demetriusengdados&layout=compact&langs_count=7&theme=dracula"/>
