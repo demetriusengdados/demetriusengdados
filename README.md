@@ -27,7 +27,8 @@ Contato:
 
 ## Atuação Profissional 
 
-- Engenheiro de Dados - Jump Label - (05/2023 - até o momento)
+- Engenheiro de Dados - UpBI - (07/2023 - 11/2023)
+- Engenheiro de Dados - Jump Label - (04/2023 - 07/2023)
 - Engenheiro de Dados - Kumulus - (01/2023 - 04/2023)
 - Engenheiro de Dados - Radix - (11/2021 - 01/2023)
 - Engenheiro de Dados - Sales Gama (11/2020 - 11/2021)
