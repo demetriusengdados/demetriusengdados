@@ -11,17 +11,25 @@ Contato:
 <a href="https://www.linkedin.com/in/demetrius-mata-6aa74910a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div> <a href = "dimagela25@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-## Eu sou Engenheiro de Dados Azure.
+## Engenheiro de dados Sr com foco em Azure.
 
-### Meu objetivo é ajudar empresas a resolver seus problemas com dados.
+Experiência no setor de mineração, bancário e educacional.
 
-## Experiência em Projetos de Engenharia e Arquitetura de Dados usando:
+Atuo no mercado desde 2008
 
-- Atlassian (Jira Service Desk, Jira Software e Jira Cloud) 
-- Ecossistema Apache e Cloud Azure/AWS 
-- Tenho experiencia na área de produtos e projetos envolvendo desde concepção até entrega de arquitetura de dados
-- Atuo atualmente como engenheiro de dados em time de sustentação 
-- Me segue ai e bora falar de dados 
+Profissional altamente qualificado com vasta experiência em Internet das Coisas (IoT), bancos de dados não relacionais (MongoDB), e os ecossistemas Azure e Apache. 
+
+Com um histórico comprovado de atuação nos setores educacional, logístico e de mineração, 
+
+conhecido por sua habilidade em implementar soluções tecnológicas inovadoras que melhoram a eficiência operacional e geram valor estratégico para as organizações.
+
+Internet das Coisas (IoT): Desenvolve e implementa soluções IoT para a coleta e análise de dados em tempo real, otimizando processos e aumentando a eficiência.
+
+Bancos de Dados Não Relacionais (MongoDB): Expertise em modelagem, implementação e gerenciamento de bancos de dados NoSQL, garantindo a escalabilidade e flexibilidade necessárias para grandes volumes de dados.
+
+Ecossistema Azure: Experiência sólida na utilização da plataforma de nuvem Azure para desenvolvimento, implantação e gestão de aplicações e serviços.
+
+Ecossistema Apache: Profundo conhecimento em ferramentas e frameworks do ecossistema Apache, como Hadoop, Kafka e Spark, aplicados em processamento de dados em larga escala e análise de dados avançada.
 
 ## Atuação Profissional 
 
