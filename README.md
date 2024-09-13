@@ -25,6 +25,8 @@ Contato:
 
 ## Atuação Profissional 
 
+- Engenheiro de Dados - Sevensys (04/2024 - Atualmente)
+- Engenheiro de Daods - CI&T - (12/2023 - 04/2024)
 - Engenheiro de Dados - UpBI - (07/2023 - 11/2023)
 - Engenheiro de Dados - Jump Label - (04/2023 - 07/2023)
 - Engenheiro de Dados - Kumulus - (01/2023 - 04/2023)
