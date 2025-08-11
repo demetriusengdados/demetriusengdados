@@ -1,6 +1,24 @@
 # Hi there  I'm Demetrius Magela da Mata👋
 
-Sou engenheiro de dados, por aqui vai achar códigos de automação, processos de ETL, alguns de IaaC(terraform). Fique a vontade pra melhorar no que for possivel 
+Sobre este repositório
+
+Este espaço reúne projetos e códigos voltados para engenharia de dados e engenharia de software, desenvolvidos com base em livros técnicos, cursos especializados e experiências práticas. O foco está em soluções robustas, escaláveis e alinhadas com boas práticas do mercado.
+
+🚀 Principais tecnologias e áreas abordadas
+
+Python e SQL para análise, automação e manipulação de dados
+
+Apache Spark para processamento distribuído
+
+Apache Kafka para streaming e integração de sistemas
+
+IoT (Internet das Coisas) com foco em coleta e tratamento de dados sensoriais
+
+Integração de ferramentas e arquiteturas modernas para pipelines de dados
+
+Documentação e versionamento de soluções técnicas
+
+🤝 Colaboração e evolução contínua Este repositório está aberto a sugestões, melhorias e discussões técnicas. Sinta-se à vontade para contribuir ou entrar em contato.
 
 Minhas principais skills:
 
@@ -33,8 +51,11 @@ Ecossistema Apache: Profundo conhecimento em ferramentas e frameworks do ecossis
 
 ## Atuação Profissional 
 
-- Engenheiro de Dados - Sevensys (04/2024 - Atualmente)
-- Engenheiro de Daods - CI&T - (12/2023 - 04/2024)
+- Engenheiro de Dados - ACT Digital (08/2025 - Atualmente)
+- Engenheiro de Dados - DBC Company (01/2025 - 08/2025)
+- Engenheiro de Daods - Mesha Tecnologia (10/2024 - 01/2025)
+- Engenheiro de Dados - Sevensys (04/2024 - 10/2024)
+- Engenheiro de Dados - CI&T - (12/2023 - 04/2024)
 - Engenheiro de Dados - UpBI - (07/2023 - 11/2023)
 - Engenheiro de Dados - Jump Label - (04/2023 - 07/2023)
 - Engenheiro de Dados - Kumulus - (01/2023 - 04/2023)
